@@ -2,7 +2,7 @@
 
 # `DSA.GIT`
 
-#### <code>❯ REPLACE-ME</code>
+#### <code>❯ Kamran Khan</code>
 
 <p align="left">
 	<!-- Shields.io badges disabled, using skill icons. --></p>
